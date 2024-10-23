@@ -1,0 +1,10 @@
+streamlit~=1.39.0
+langchain 
+langchain_ollama
+selenium~=4.25.0
+beautifulsoup4~=4.12.3
+lxml 
+html5lib
+python-dotenv~=1.0.1
+langchain-core~=0.3.12
+SQLAlchemy~=2.0.36
